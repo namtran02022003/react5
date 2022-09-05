@@ -18,7 +18,7 @@ function App () {
             </a>
             <a className="a-menu-25" href="#">
               <i className="fa h fa-user fa-fw " />
-              ABOUT
+              ABOUTt
             </a>
             <a className="a-menu-25 " href="#">
               <i className="fa h fa-envelope fa-fw " />
